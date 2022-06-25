@@ -1,0 +1,24 @@
+p {
+	padding: 10px;
+}
+
+h2 {
+	background-color: grey;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.nav-item {
+	background-color: white;
+}
+
+.navbar-brand {
+	font-family: helvetica;
+	font-size: 2em;
+	font-weight: 800;
+}
